@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Pages of J-will-be
 
 You can use the [editor on GitHub](https://github.com/J-will-be/J-will-be/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
